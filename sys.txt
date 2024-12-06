@@ -1,4 +1,4 @@
 5.1.2
-480aecc2-60c6-4cbf-bd77-67d0ac1b10c4;Sapphire.exe,121CC1D95F402BB2;Sapphire.exe
+480aecc2-60c6-4cbf-bd77-67d0ac1b10c4;Sapphire.exe,121CC1D95F402BB2;Sapphire.exe,DC94B28AFB8F5A1A;SPECTRO
 You are using build {0} of Sapphire.exe. This menu is completely <color=yellow>FREE</color> and made by Duckyy. There are a total of <color=yellow><b>{1}</b></color> mods on this menu. <color=red>I, Duckyy, am not responsible for any bans using this menu.</color> If you get banned while using this, it's your responsibility. <color=blue>Sapphire.exe - V2.5 - Build 5.1.2</color>
 https://discord.gg/We2zw8aSQs
