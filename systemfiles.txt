@@ -1,4 +1,4 @@
 5.1.2
-95f7b73e-096a-4d86-b1fa-29b0ec1361be;DUCKYY,ef08facd-c67f-435f-a27e-a02d0484526c;SIGMA
+95f7b73e-096a-4d86-b1fa-29b0ec1361be;DUCKYY,ef08facd-c67f-435f-a27e-a02d0484526c;sigma
 You are an <color=red>Admin</color> of Sapphire.exe. There are a total of <color=yellow><b>{1}</b></color> mods on this menu. <color=blue>Sapphire.exe - V2.5 - Build 5.1.2</color>
 https://discord.gg/We2zw8aSQs
