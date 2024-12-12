@@ -1,4 +1,4 @@
 5.1.2
-87A9B13CB5A16CEB;DUCKYY,F18E4C230D77576D;SPECTRO
+ADFD85D152C7E3B9;DUCKYY,C0714DBB0670CFC1;SPECTRO
 You are using build {0} of Sapphire.exe. This menu is completely <color=yellow>FREE</color> and made by Duckyy. There are a total of <color=yellow><b>{1}</b></color> mods on this menu. <color=red>I, Duckyy, am not responsible for any bans using this menu.</color> If you get banned while using this, it's your responsibility. <color=blue>Sapphire.exe - V2.4 - Build 5.1.2</color>
 https://discord.gg/We2zw8aSQs
